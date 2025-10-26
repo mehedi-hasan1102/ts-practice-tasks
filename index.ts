@@ -34,7 +34,7 @@ const myBook: Book = {
   author: "Mehedi Hasan",
   pages: 5,
   published: true,
-  info: ["Anujaman", "Mehedi Hasan"]
+  info: ["Anujamanara", "Mehedi Hasan"]
 }
 
 function printBook(book: Book): void {
